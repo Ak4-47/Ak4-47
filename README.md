@@ -5,7 +5,7 @@
 - I’m looking to collaborate on ... < n/a >
 - How to reach me ... < n/a >
 
-- (Meus relatorio de IR 🤠)[https://ak4-47.github.io/]
+- [Meus relatorio de IR - Declassificados para nao ferir nenhum NDA 🤠](https://ak4-47.github.io/) 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pub2R1bGtqcTVoNHVrY2xuZXA2aXJlYzJrZXNlMjdnbGR6MzZ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4B9tlumUF5KrybOxVL/giphy.gif">
 
