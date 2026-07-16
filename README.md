@@ -1,6 +1,6 @@
 # wakaw4nn-Ak4-47
-- Acauã Tunari (Tounaïyalē Waka'wã) - Índigena Kali'na, h4ck3r e [pesquisador de iniciação científica](https://www.youtube.com/watch?v=TzqQ0XH8klA). 
-- Estou interessado em ... SOC & IR, Purple Team, IA...
+- Acauã Tunari (Tounaïyalē Waka'wã) - Índigena Kali'na, h4ck3r e pesquisador de iniciação científica. 
+- Trabalho com ... SOC & IR, Purple Team, IA...
 - Atualmente estou estudando ... Detection Engineer, Red Team, LLMs penetration testing  
 - I’m looking to collaborate on ... < n/a >
 - How to reach me ... < n/a >
